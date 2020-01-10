@@ -1,0 +1,29 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "create a web app from scratch ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ajay-25/starter.git"
+  },
+  "keywords": [
+    "react",
+    "babel",
+    "webpack",
+    "node"
+  ],
+  "author": "Ajay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay-25/starter/issues"
+  },
+  "homepage": "https://github.com/Ajay-25/starter#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
